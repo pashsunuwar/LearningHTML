@@ -1,0 +1,36 @@
+
+body{
+    background-color: gainsboro;
+}
+h1{
+    color: brown;
+}
+
+ul>li{
+    color:saddlebrown;
+}
+
+
+
+#myp1{
+    color: blue;
+    background-color: aqua;
+}
+#myp2{
+    color: black;
+}
+#myp3{
+    color: orange;
+}
+#myp4{
+    color: yellowgreen;
+}
+
+.textStuff{
+    font-family:sans-serif;
+    background-color: darkorchid;
+}
+
+div>p{
+    background-color: white;
+}
